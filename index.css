@@ -1,0 +1,150 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    border: 1x solid;
+    border-color: 2, 156, 156);
+    width: 100%;
+    display: flex;
+    position: relative;
+    
+}
+.logo{
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border: px solid;
+    float: left;
+    margin-left: 50px;
+    margin-top: 9px;
+}
+.X{
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-left:1150px;
+    margin-top: 17px;
+    
+}
+h2{
+    border: 1p solid;
+    height: 50px;
+}
+.login{
+    padding: 50px;
+    border: 2px solid;
+    border-color: rgb(187, 192, 192);
+    width: 400px;
+    margin: auto;
+    height: 421px;
+    border-radius: 20px;
+    background-color:rgba(61, 6, 189, 0.1);
+    backdrop-filter: blur(20px);
+}
+.one{
+    border: 1x solid;
+    margin-top: px;
+    width: 190px;
+    margin-left: 158px;
+    position: absolute;
+    font-size: 12px;
+    font-family: sans-serif;
+    padding-top: 2px;
+}
+.one a{
+    text-decoration: none;
+    color: darkgreen;
+    padding-left:5px;
+}
+.one a:hover{
+    color: blueviolet;
+}
+.first{
+    border: 1px olid;
+    position: absolute;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+.Email{
+    margin-top: 5px;
+    width: 300px;
+    height: 30px;
+    border-radius: x;
+    border-color: rgb(209, 204, 204);
+    border: 1px solid;
+    border: inse;
+}
+.eye{
+    width: 20px;
+    border: px solid;
+    padding-top: 4px;
+}
+.two{
+    margin-left: 241px;
+    border: px solid;
+    width: 200px;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(41, 37, 37);
+    margin-top: 23px;
+    position: absolute;
+
+}
+.second{
+    border: 1p solid;
+    position: absolute;
+    margin-top: 23px;
+    font-weight: bold;
+}
+.password{
+    margin-top: 30px;
+    width: 300px;
+    height: 30px;
+}
+.btn{
+    width: 300px;
+    height: 40px;
+    margin-top: 43px;
+    border-radius: 20px;
+    border: 1px solid;
+    font-size: 17px;
+    font-family: serif;
+    color: rgb(255, 255, 255);
+    background-color: rgb(80, 156, 80);
+
+
+}
+.forgot{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 10px;
+    color: rgb(15, 33, 66);
+}
+.forgot a:hover{
+    color: blueviolet;
+    cursor: pointer;
+}
+.footer{
+    font-size: 12px;
+    border: 1x solid;
+    width: 430px;
+    margin: 20px;
+    margin-left: 490px;
+}
+.foot{
+    position: absolute;
+    margin-left:400px;
+    width: 100px;
+    height: 34px;
+    border-radius: 20px;
+    font-weight: bold;
+    color: rgb(253, 253, 253);
+    background-color: rgb(63, 163, 63);
+    border: 1px solid;
+}
+
